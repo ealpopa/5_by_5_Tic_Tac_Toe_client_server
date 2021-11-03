@@ -1,5 +1,8 @@
 # 5_by_5_Tic_Tac_Toe_client_server
 5_by_5_Tic_Tac_Toe_client_server
+
+This is a very simple and rudimentary 5 x 5 Tic Tac Toe game using sockets.
+
 How to launch the game:
 1. Launch server.py. Ex: ./server.py
 2. Each client is launched. Ex: ./client.py 127.0.0.1
